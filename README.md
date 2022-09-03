@@ -1,2 +1,2 @@
 # Skill-India-AI-ML-Scholarship
-This repository is having all the assignments-projects completed in AI/ML Skill India Scholarship by Elite Techno Groups.
+Breast Cancer Detection: A model that predicts Breast cancer on the basis of the dataset taken by kaggle using python and machine learning algorithms.
